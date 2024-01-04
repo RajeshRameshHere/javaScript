@@ -1,0 +1,18 @@
+.cont{
+
+right: 50%;
+}
+
+.ib{
+    left: 50%;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-radius: 20;
+    justify-content: center;
+    
+}
+.sm{
+    display: flex;
+    justify-content: center;
+}
